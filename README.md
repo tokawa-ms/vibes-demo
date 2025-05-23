@@ -1,6 +1,6 @@
 # Vibes Demo
 
-このリポジトリは、Vibe Coding のデモ用の、GitHub Copilot の設定サンプルのリポジトリです。
+このリポジトリは、Vibe Coding の簡単なデモ用の、GitHub Copilot の設定サンプルのリポジトリです。
 
 # 技術スタック
 

@@ -9,7 +9,8 @@
     - `<script src="https://cdn.tailwindcss.com"></script>`
 - JavaScript (ES6)
   - JavaScript のコードは ES6 準拠で記述すること
-  - JavaScript のコードはモジュール化し、ES6 モジュールを使用すること
+  - ライブラリは HTML ファイル内で CDN から静的に読み込むこと。
+
 # 技術要件
 
 ブラウザーで HTML ファイルを開くだけで、動作すること。
